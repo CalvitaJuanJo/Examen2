@@ -4,6 +4,7 @@ Codigo:
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/172bbbfd-e2c3-48e1-b91f-88d4bb4c6aac" />
 <img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/a4decfaa-fe57-456e-9a73-2a75f01fe1c9" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/7e9f2772-1030-42f3-adc8-0c6af6b6e8d0" />
 
 
 Ejecucion:
